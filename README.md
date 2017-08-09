@@ -1,4 +1,4 @@
-# dojo-<< package-name >>
+# @dojo/data
 
 <!-- TODO: change and uncomment
 [![Build Status](https://travis-ci.org/dojo/<< package-name >>.svg?branch=master)](https://travis-ci.org/dojo/<< package-name >>)
@@ -6,15 +6,19 @@
 [![npm version](https://badge.fury.io/js/dojo-<< package-name >>.svg)](http://badge.fury.io/js/dojo-<< package-name >>)
 -->
 
-TODO: Replace with a description of this package
+Application state and resource management for Dojo 2 applications
 
 ## Features
 
-TODO: Add sections on features of this package
+Coming Soon!
 
 ## How do I use this package?
 
-TODO: Add appropriate usage and instruction guidelines
+Install the package using npm:
+
+```
+npm install @dojo/data
+```
 
 ## How do I contribute?
 
